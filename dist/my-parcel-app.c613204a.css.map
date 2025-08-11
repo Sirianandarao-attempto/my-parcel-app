@@ -1,0 +1,1 @@
+{"mappings":"ACAA","sources":["my-parcel-app.c613204a.css","src/styles.css"],"sourcesContent":["h1 {\n  color: #ff69b4;\n  font-family: cursive;\n}\n/*# sourceMappingURL=my-parcel-app.c613204a.css.map */\n","h1 {\r\n  color: hotpink;\r\n  font-family: cursive;\r\n}\r\n"],"names":[],"version":3,"file":"my-parcel-app.c613204a.css.map"}
